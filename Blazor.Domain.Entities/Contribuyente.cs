@@ -13,5 +13,6 @@ namespace Blazor.Domain.Entities
         public string Nombre { get; set; }
         public string Apellido { get; set; }
         public string Correo { get; set; }
+        public string Direccion { get; set; }
     }
 }
